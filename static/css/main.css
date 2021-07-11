@@ -1,0 +1,27 @@
+body
+{
+	box-sizing: border-box;
+	margin-top: 10vh;
+	text-align: center;
+}
+td
+{
+	border:1px solid rgb(175, 216, 248);
+	padding : 10px
+}
+form
+{
+	margin-top: 20px;
+}
+#content{
+	width = 70%;
+	align-items: center;
+	align-content: center;
+}
+
+table
+{
+    width:50%;
+	margin-left:auto; 
+    margin-right:auto;
+}

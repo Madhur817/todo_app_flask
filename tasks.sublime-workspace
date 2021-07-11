@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"colo",
+				"flood-color\tproperty"
+			],
+			[
+				"Com",
+				"Column"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"headi",
+				"heading_items"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"dfs",
+				"dfs_udtapunjab"
+			],
+			[
+				"fa",
+				"farthest_node"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"lc",
+				"lcm3"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"books",
+				"books_per_library"
+			],
+			[
+				"sum",
+				"sum_of_books"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"temp",
+				"temp_list"
+			],
+			[
+				"col",
+				"col_name"
+			],
+			[
+				"df",
+				"df_temp2"
+			],
+			[
+				"cols",
+				"cols2"
+			],
+			[
+				"da",
+				"DataFrame"
+			],
+			[
+				"in",
+				"inplace"
+			],
+			[
+				"studen",
+				"studentInfo"
+			],
+			[
+				"stu",
+				"studentInfo"
+			],
+			[
+				"cal",
+				"clauses"
+			],
+			[
+				"sa",
+				"satisfies_clause"
+			],
+			[
+				"cla",
+				"clauses"
+			],
+			[
+				"is",
+				"isInBox"
+			],
+			[
+				"isI",
+				"isInColumn"
+			],
+			[
+				"ob",
+				"obj2"
+			],
+			[
+				"comp",
+				"compareComputation"
+			],
+			[
+				"Ma",
+				"manhattan"
+			],
+			[
+				"ge",
+				"getFringeSize"
+			],
+			[
+				"fr",
+				"fringe_size"
+			],
+			[
+				"Hu",
+				"Heuristic"
+			],
+			[
+				"tt",
+				"ttemp"
+			],
+			[
+				"be",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"pr",
+				"printCurrentState"
+			],
+			[
+				"med",
+				"med2"
+			],
+			[
+				"prin",
+				"printbinary"
+			],
+			[
+				"te",
+				"template_obj"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"con",
+				"contact_page"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"get",
+				"getModifiers"
+			],
+			[
+				"Bank",
+				"BankAccount"
+			],
+			[
+				"Assert",
+				"assertTrue"
+			],
+			[
+				"balace",
+				"balance"
+			],
+			[
+				"MN",
+				"MAX_TRANSACTIONS_DAYCheck2"
+			],
+			[
+				"MIN",
+				"MIN_BALANCECheck2"
+			],
+			[
+				"num",
+				"num_transactionsCheck"
+			],
+			[
+				"ba",
+				"balanceCheck"
+			],
+			[
+				"first",
+				"firstNameCheck"
+			],
+			[
+				"assert",
+				"assertTrue"
+			],
+			[
+				"Max",
+				"MAX_TRANSACTIONS_DAYCheck2"
+			],
+			[
+				"MAX",
+				"MAX_TRANSACTIONS_DAYCheck"
+			],
+			[
+				"fir",
+				"firstNameCheck"
+			],
+			[
+				"acc",
+				"acc_no"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 1539,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: template"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 338.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/madhur/Madhur/Working/Task Manager",
+		"/home/madhur/Madhur/Working/Task Manager/__pycache__"
+	],
+	"file_history":
+	[
+		"/home/madhur/Madhur/Working/Task Manager/templates/index.html",
+		"/home/madhur/Downloads/b.txt",
+		"/home/madhur/Madhur/Working/Task Manager/app.py",
+		"/home/madhur/Madhur/Working/Task Manager/static/css/main.css",
+		"/home/madhur/Madhur/Working/Task Manager/templates/base.html",
+		"/home/madhur/Madhur/Working/PathFinding/style.css",
+		"/home/madhur/Madhur/Working/PathFinding/index.html",
+		"/home/madhur/Madhur/Working/Task Manager/static/main.css",
+		"/home/madhur/Madhur/Working/Task Manager/requirements.txt",
+		"/home/madhur/Madhur/Downloads/Black.Mirror.S01-S04.1080p.WEBRip.x265.HEVC-MRN/Readme.txt",
+		"/home/madhur/Downloads/linuxdcpp-1.1.0/Readme.txt",
+		"/home/madhur/Downloads/linuxdcpp-1.1.0/debian/install",
+		"/home/madhur/Madhur/Working/PathFinding/script.js",
+		"/home/madhur/Madhur/Working/pathfinding/pathfinding/settings.py",
+		"/home/madhur/Madhur/Working/code/prufung/settings.py",
+		"/home/madhur/Madhur/Working/code/templates/index.html",
+		"/home/madhur/Downloads/Microservices Design/Microservices Design/Submissions.txt",
+		"/home/madhur/.cache/.fr-zDj3IN/1426/readme.txt",
+		"/home/madhur/Madhur/Working/1426/readme.txt",
+		"/home/madhur/Madhur/Coding/Practice/output.txt",
+		"/home/madhur/Madhur/Coding/Practice/input.txt",
+		"/home/madhur/Madhur/Coding/Practice/blank.cpp",
+		"/home/madhur/Madhur/Project prufung/prufung/wsgi.py",
+		"/home/madhur/anaconda3/condabin/conda",
+		"/home/madhur/Madhur/Acads/4-1/Makefile",
+		"/home/madhur/Downloads/2016B4A70275G/2016B4A70275G_readme.txt",
+		"/home/madhur/Downloads/2016B4A70275G/2016B4A70275G_psc.ipynb",
+		"/home/madhur/Madhur/Acads/4-1/AI/Assignment2/Makefile",
+		"/home/madhur/Madhur/Acads/4-1/AI/Assignment2/2016B4A70275G/readme.txt",
+		"/home/madhur/Downloads/data (1).csv",
+		"/home/madhur/Downloads/data.csv",
+		"/home/madhur/Downloads/Tut - 1 Data Preprocessing.ipynb",
+		"/home/madhur/Downloads/hash code 2020/code.cpp",
+		"/home/madhur/Downloads/code (1).cpp",
+		"/home/madhur/Downloads/hash code 2020/s.sh",
+		"/home/madhur/Downloads/code.cpp",
+		"/home/madhur/Downloads/hash code 2020/f.in",
+		"/home/madhur/Downloads/hash code 2020/a_example.txt",
+		"/home/madhur/Downloads/hash code 2020/b.in",
+		"/home/madhur/Downloads/hash code 2020/c.in",
+		"/home/madhur/Desktop/client.c",
+		"/home/madhur/Desktop/server.c",
+		"/home/madhur/Downloads/qualification_round_2018.in/code.cpp",
+		"/home/madhur/Downloads/yaru-master/meson_options.txt",
+		"/home/madhur/Downloads/qualification_round_2018.in/a_example.in",
+		"/home/madhur/Downloads/qualification_round_2018.in/index.html",
+		"/home/madhur/Downloads/qualification_round_2018.in/c_no_hurry.in",
+		"/home/madhur/Downloads/qualification_round_2018.in/d_metropolis.in",
+		"/home/madhur/Downloads/qualification_round_2018.in/e_high_bonus.in",
+		"/home/madhur/Downloads/qualification_round_2018.in/b_should_be_easy.in",
+		"/home/madhur/.config/sublime-text-3/Packages/User/template.sublime-snippet",
+		"/home/madhur/Madhur/Coding/Practice/trie.cpp",
+		"/home/madhur/Madhur/Documents/Aid/Aid.txt",
+		"/home/madhur/Desktop/Thesis/Sentiment",
+		"/home/madhur/Desktop/Thesis/PS1",
+		"/home/madhur/Madhur/Acads/4-1/OOP/2018/student_solution/Lab2/java/Triangle.java",
+		"/home/madhur/Desktop/Thesis/ACUMES cl",
+		"/home/madhur/Desktop/Thesis/sample",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/student_solution/java/BankAccount.java",
+		"/home/madhur/Madhur/Acads/PS1 - PROJECT/data.txt",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/results/scores.txt",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/test_cases/java/tests/testBank.java",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/test_cases/java/tests/testBankAccount.java",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/test_cases/java/tests/Test1.java",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/author_solution/java/Bank.java",
+		"/home/madhur/Desktop/Thesis/General",
+		"/home/madhur/Desktop/Thesis/stucky",
+		"/home/madhur/Desktop/Thesis/sarthak",
+		"/home/madhur/Desktop/Thesis/rushabh.txt",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/student_solution/java/Bank.java",
+		"/home/madhur/Madhur/Acads/4-1/OOP/2018/questions/Lab3/README.md",
+		"/home/madhur/Madhur/Acads/4-1/OOP/Final_Lab2/Lab2/author_solution/java/BankAccount.java",
+		"/home/madhur/Desktop/Thesis/EmirUM.txt",
+		"/home/madhur/Desktop/Thesis/mail.txt",
+		"/home/madhur/Madhur/Tv Shows/Love Death and Robots SEASON 01 S01 COMPLETE 1080p 10bit WEBRip 6CH x265 HEVC-PSA [AchhaHai]/PSArips.com.txt",
+		"/home/madhur/Desktop/mail.txt",
+		"/home/madhur/Desktop/EmirUM.txt",
+		"/home/madhur/Desktop/stucky",
+		"/home/madhur/Madhur/CMI/Proj/Final.R",
+		"/home/madhur/Madhur/CMI/Proj/Markovitz.R",
+		"/home/madhur/Madhur/CMI/Proj/Curr.R",
+		"/home/madhur/Madhur/CMI/Proj/CMI.Rproj",
+		"/home/madhur/Madhur/CMI/Proj/Rplots.pdf",
+		"/home/madhur/Madhur/CMI/Notes on Project",
+		"/home/madhur/Madhur/CMI/Proj/Day4.R",
+		"/home/madhur/Madhur/Acads/PS1 - PROJECT/data for movie database.txt",
+		"/home/madhur/Madhur/CMI/CMI Day2",
+		"/home/madhur/Madhur/Acads/4-1/AI/syllabus.txt",
+		"/home/madhur/Madhur/Acads/4-1/AI/Assignment1/2016B4A70275G/assign.cpp",
+		"/home/madhur/.cache/.fr-8iBokQ/Candy/README.md",
+		"/home/madhur/Documents/aftersop.cu",
+		"/home/madhur/Downloads/dsu.sublime-snippet",
+		"/home/madhur/Downloads/tabletennis-master/TableTennis/main.cpp",
+		"/home/madhur/Downloads/tabletennis-master/README.md",
+		"/home/madhur/Madhur/Working/Scrapping/codechef.py",
+		"/home/madhur/Downloads/tabletennis-master/main.cpp",
+		"/home/madhur/Madhur/Working/Scrapping/code.py",
+		"/home/madhur/Madhur/Documents/Madhur Documents/New Text Document (2).txt",
+		"/home/madhur/Madhur/Working/Bootcamp-master(S)/README.md",
+		"/home/madhur/Madhur/Working/Untitled.ipynb",
+		"/home/madhur/Madhur/Working/Sudoku/Sudoku.cpp",
+		"/home/madhur/Madhur/Working/code.py",
+		"/home/madhur/Madhur/Working/Continuous.ipynb",
+		"/home/madhur/test.c",
+		"/home/madhur/output.txt",
+		"/home/madhur/input.txt",
+		"/home/madhur/Answer.txt",
+		"/home/madhur/Madhur/Downloads/Deep Learning Nanodegree/Projects.txt",
+		"/home/madhur/Madhur/Tv Shows/The Big Bang Theory/The Big Bang Theory Season 06/The Big Bang Theory S06E01 The Date Night Variable (1080p H265 Joy).srt",
+		"/home/madhur/Madhur/Tv Shows/The Big Bang Theory/The Big Bang Theory Season 04/The Big Bang Theory S4E11 - The Justice League Recombination.srt",
+		"/home/madhur/Downloads/youtube-dlg_0.4-1_webupd8_disco0.debian/debian/youtube-dlg.desktop",
+		"/home/madhur/Downloads/youtube-dlg_0.4-1_webupd8_disco0.debian/debian/rules",
+		"/home/madhur/Madhur/Python/Workshop/digitclassifier.py",
+		"/home/madhur/Madhur/Python/text.py",
+		"/home/madhur/Madhur/Python/untitled.py",
+		"/home/madhur/Madhur/Python/untitled1.py",
+		"/home/madhur/Downloads/X556UQKAS317/X556UQK-AS.317",
+		"/home/madhur/Madhur/Working/AI Cup/aicup-python/my_strategy.py",
+		"/home/madhur/Madhur/Working/AI Cup/aicup2019-linux/aicup2019-preferences.json",
+		"/home/madhur/Madhur/Acads/4-1/AI/Assignment2/assign.cpp",
+		"/home/madhur/Madhur/Acads/4-1/AI/Assignment1/make",
+		"/home/madhur/Madhur/Working/AI Cup/aicup-cpp/MyStrategy.cpp",
+		"/home/madhur/Downloads/net.js",
+		"/home/madhur/Madhur/Acads/4-1/CompArch/syl.txt",
+		"/home/madhur/Desktop/test.c",
+		"/home/madhur/Madhur/Acads/4-1/OS/madhur.txt",
+		"/home/madhur/Desktop/SImran/id.txt",
+		"/home/madhur/Madhur/Downloads/Machine Learning BITS F464/Project/output.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"th",
+			"endblock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/madhur/Madhur/Working/Task Manager"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 171.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 60.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Madhur/Coding/Practice/coding.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
